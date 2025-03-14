@@ -1,5 +1,7 @@
 # 🌌 SPA Universe
- 
+
+<br>
+
 ## 🔍 Visão geral
 
 O SPA Universe é uma aplicação web de página única (Single Page Application - SPA) desenvolvida como parte de um desafio da Rocketseat. O objetivo da página é permitir a inscrição e indicação de usuários para eventos de tecnologia, garantindo uma interface moderna e interativa.
@@ -14,7 +16,7 @@ O SPA Universe é uma aplicação web de página única (Single Page Application
 
 ## :rocket: Sobre o desenvolvimento
 
-Ao desenvolver esse projeto, coloquei em prática aprendizados recentes sobre JavaScript e CSS, aplicando conceitos como:
+Ao desenvolver esse projeto, coloquei em prática aprendizados recentes sobre JavaScript antes do framework, aplicando conceitos como:
 
 ✅Conceitos de SPA, garantindo que a navegação entre seções ocorra sem recarregar a página.
 
@@ -26,4 +28,26 @@ Ao desenvolver esse projeto, coloquei em prática aprendizados recentes sobre Ja
 
 <br>
 
----
+
+![image](https://github.com/user-attachments/assets/3e69afe2-e8b1-48c0-95cf-2d40200ae03c)
+
+<br>
+
+## 🚀 Iniciando o Projeto  
+
+Para executar o **SPA Universe** localmente, siga os passos abaixo:  
+
+### 📌 1. Instalando as Dependências  
+
+Antes de iniciar o projeto, é necessário instalar as dependências do Node.js. Se a pasta `node_modules` ainda não foi criada, utilize o seguinte comando no terminal:   
+
+```bash
+npm install
+
+```
+### 📌 2. Instalando as Dependências  
+
+Após a instalação das dependências, o servidor pode ser iniciado com o comando:
+```bash
+npm run start
+
